@@ -1,0 +1,361 @@
+{
+    "albums": [
+        {
+            "name": "弦奏超絶技",
+            "artist": "中島岬",
+            "publish": "2010/12/31",
+            "cover": "cover1.jpg",
+            "brief": "ピアノスキーの為の鍵盤を中心としたオリジナルアルバム。",
+            "songs": [
+                {
+                    "name": "Rupture Velocity"
+                },
+                {
+                    "name": "アラード"
+                },
+                {
+                    "name": "プライムの謳"
+                },
+                {
+                    "name": "Imperial"
+                },
+                {
+                    "name": "幻影舞踏師"
+                },
+                {
+                    "name": "Arkona"
+                },
+                {
+                    "name": "dim"
+                },
+                {
+                    "name": "Enescu"
+                },
+                {
+                    "name": "ティアラ"
+                },
+                {
+                    "name": "悪夢"
+                }
+            ]
+        },
+        {
+            "name": "白く咲く花",
+            "artist": "小倉唯",
+            "publish": "2018-03-14",
+            "cover": "cover2.jpg",
+            "brief": "小倉唯の通算8枚目のシングルは初の3曲入り!カップリングでは、初めての作詞にも挑戦!",
+            "songs": [
+                {
+                    "name": "白く咲く花"
+                },
+                {
+                    "name": "ずっとふたりで"
+                },
+                {
+                    "name": "かけがえのない瞬間"
+                },
+                {
+                    "name": "白く咲く花 (Off Vocal Version)"
+                },
+                {
+                    "name": "ずっとふたりで (Off Vocal Version)"
+                },
+                {
+                    "name": "かけがえのない瞬間 (Off Vocal Version)"
+                }
+            ]
+        },
+        {
+            "name": "涙のイエスタデー",
+            "artist": "GARNET CROW",
+            "publish": "2007-07-04",
+            "cover": "cover3.jpg",
+            "brief": "GC的100曲，终于在由利生日的时候和大家见面了，欢呼。众所周知了，这首也是柯南的第20个片头曲，片头做的不错，嗯，听这歌TV版的时候就知道这是一首轻快的夏日歌了，原版和TV版差别不大，也是很有夏天风格的。开头的感觉就很阳光，听着也很有一种积极感。第二首歌是节奏比较慢的一首，当然是抒情的那种风格了吧。第三首的节奏也比较快，而且还很轻快，音不是很低，听着也很有一番风味啊，只是3分半就显得太短了0_0.我想GC fans和柯南fans应该早就等不及要听这张单曲了吧，嗯，即使不用太夸张的宣传，我想这首歌也会有很大的好评的。GC的第100-102曲，嗯，一定要拿个好成绩啊",
+            "songs": [
+                {
+                    "name": "涙のイエスタデー"
+                },
+                {
+                    "name": "Go For It"
+                },
+                {
+                    "name": "一番素敵だった日"
+                },
+                {
+                    "name": "涙のイエスタデー (Instrumental)"
+                }
+            ]
+        },
+        {
+            "name": "Eyes On Me",
+            "artist": "王菲",
+            "publish": "1999-02-24",
+            "cover": "cover4.jpg",
+            "brief": "日本的游戏公司史克威尔1999年的惊世巨作——《最终幻想Ⅷ》的主题曲……",
+            "songs": [
+                {
+                    "name": "Eyes On Me"
+                },
+                {
+                    "name": "红豆"
+                },
+                {
+                    "name": "Eyes On Me (器乐版)"
+                }
+            ]
+        },
+        {
+            "name": "八度空间",
+            "artist": "周杰伦",
+            "publish": "2002-07-18",
+            "cover": "cover5.jpg",
+            "brief": "在金曲奖上大放异彩的音乐奇才周杰伦，今年破天荒地一连拿下多项大奖，可说是缔造华语歌坛前所未有的新纪录，这样傲人的成绩，不仅再度肯定杰伦音乐上过人的才华，无疑的，也是替饱受盗版之苦的唱片娱乐圈，带来一丝希望曙光！ 2002年七月，杰伦又一次展现他惊人的音乐狂想力，他尝试把自己的奇想格局更加扩大，玩弄音符是杰伦天生潜在的本性，但拥有音乐天赋的杰伦并不视骄而宠，反而更战战兢兢的制作出一首又一首脍炙人口的作品，因为他深知，大家的肯定是他创作的原动力！因此，请擦亮你的眼睛，欣赏杰伦驰骋游戏空间所散发的光彩！",
+            "songs": [
+                {
+                    "name": "半兽人"
+                },
+                {
+                    "name": "半岛铁盒"
+                },
+                {
+                    "name": "暗号"
+                },
+                {
+                    "name": "龙拳"
+                },
+                {
+                    "name": "火车叨位去"
+                },
+                {
+                    "name": "分裂"
+                },
+                {
+                    "name": "爷爷泡的茶"
+                },
+                {
+                    "name": "回到过去"
+                },
+                {
+                    "name": "米兰的小铁匠"
+                },
+                {
+                    "name": "最后的战役"
+                }
+            ]
+        },
+        {
+            "name": "完美的一天",
+            "artist": "孙燕姿",
+            "publish": "2005-10-07",
+            "cover": "cover6.jpg",
+            "brief": "完美的一天，孙燕姿音乐旅途，新的一页",
+            "songs": [
+                {
+                    "name": "完美的一天"
+                },
+                {
+                    "name": "眼泪成诗"
+                },
+                {
+                    "name": "隐形人"
+                },
+                {
+                    "name": "流浪地图"
+                },
+                {
+                    "name": "第一天"
+                },
+                {
+                    "name": "Honey Honey"
+                },
+                {
+                    "name": "心愿"
+                },
+                {
+                    "name": "另一张脸"
+                },
+                {
+                    "name": "梦不落"
+                },
+                {
+                    "name": "明天晴天"
+                }
+            ]
+        },
+        {
+            "name": "Despacito",
+            "artist": "Luis Fonsi",
+            "publish": "2017-02-24",
+            "cover": "cover7.jpg",
+            "brief": "《Despacito》是波多黎各歌手路易斯·冯西（Luis Fonsi）和洋基老爹（Daddy Yankee）合唱的歌曲，由Erika Ender、路易斯·冯西、洋基老爹共同填词谱曲，发行于2017年2月24日。",
+            "songs": [
+                {
+                    "name": "MV Despacito"
+                }
+            ]
+        },
+        {
+            "name": "Only My Railgun",
+            "artist": "fripSide",
+            "publish": "2009-11-04",
+            "cover": "cover8.jpg",
+            "brief": "男女2人組ユニット、fripSideのシングル。TVアニメ『とある科学の超電磁砲』のオープニング・テーマ楽曲「only my railgun」。アニメの雰囲気にピッタリと合った彼らの実力が窺い知れる作品。カップリングナンバーには、「late in autumn」とタイトル曲も含むインストロメンタルを収録。",
+            "songs": [
+                {
+                    "name": "only my railgun"
+                },
+                {
+                    "name": "late in autumn"
+                },
+                {
+                    "name": "only my railgun (Instrumental)"
+                },
+                {
+                    "name": "late in autumn (Instrumental)"
+                }
+            ]
+        },
+        {
+            "name": "Crossing field",
+            "artist": "LiSA",
+            "publish": "2012-08-08",
+            "cover": "cover9.jpg",
+            "brief": "女性シンガーLiSAの、TVアニメ『ソードアート・オンライン』のオープニング主題歌を収録したシングル。作詞・作曲は、彼女のファースト・シングル「oath sign」他を手掛けた渡辺翔が担当。アニメの世界観が凝縮された楽曲に、LiSAの力強くも切ないヴォーカルが胸に迫る楽曲。",
+            "songs": [
+                {
+                    "name": "crossing field"
+                },
+                {
+                    "name": "いつかの手紙"
+                },
+                {
+                    "name": "KiSS me PARADOX"
+                },
+                {
+                    "name": "crossing field (Instrumental)"
+                },
+                {
+                    "name": "変わらない青"
+                },
+                {
+                    "name": "crossing field (TV Version)"
+                }
+            ]
+        },
+        {
+            "name": "Wishmaster",
+            "artist": "Nightwish",
+            "publish": "2000-07-18",
+            "cover": "cover10.jpg",
+            "brief": "这张《Wishmaster》是他们的第三张专辑，发行于2000年，也是风格发生重大变化并引起广大拥趸争议的一张专辑。 女声主唱Tarja用一种很纯粹的古典唱腔和乐队激昂暴烈的鼓点、吉他交织在一起，带来了非同一般的冲击力。唱片的封面也是很有特点：血色黄昏中，一队天鹅从湖面上起飞。岸边，一个小男孩满怀期望的张开了双臂…… 专辑中第二首The Kinslayer（应该是译作家族杀手吧）。同时它也是到目前为止听到的四张Nightwish作品中最喜欢的一首了。这首曲子的整体节奏比较快，前奏也相当有特色。而主音则是在For whom the gun tolls的置疑声中开始了她的演唱。一开始并不觉得有什么，直到键盘手Tumoas的声音也加入了进来后，整个歌曲产生了质的变化。一问一答的形式下，尽现了Nightwish的音乐魅力。尤其那句\"Not a hero unless you die. Our species eat the wounded ones\"更是一语道尽了世态的炎凉。",
+            "songs": [
+                {
+                    "name": "She Is My Sin"
+                },
+                {
+                    "name": "The Kinslayer"
+                },
+                {
+                    "name": "Come Cover Me"
+                },
+                {
+                    "name": "Wanderlust"
+                },
+                {
+                    "name": "Two For Tragedy"
+                },
+                {
+                    "name": "Wishmaster"
+                },
+                {
+                    "name": "Bare Grace Misery"
+                },
+                {
+                    "name": "Crownless"
+                },
+                {
+                    "name": "Deep Silent Complete"
+                },
+                {
+                    "name": "Dead Boy's Poem"
+                },
+                {
+                    "name": "Fantasmic"
+                },
+                {
+                    "name": "Sleepwalker (Eurovision Version)"
+                },
+                {
+                    "name": "Wanderlust (Live at Pakkahuone)"
+                },
+                {
+                    "name": "Deep Silent Complete (Live at Pakkahuone)"
+                }
+            ]
+        },
+        {
+            "name": "For",
+            "artist": "4円",
+            "publish": "2013-04-27",
+            "cover": "cover11.jpg",
+            "brief": "全8曲、mixとmasteringはHeavenzさん\nジャケットイラストはわかさん、デザインは雪子さんにお願いしました。\nこの度、初めて歌ってみた1stアルバムを出させて頂きます。\nご協力頂いた皆様、応援してくれた皆様、CDに携わってくれた友人たち、\n本当にありがとうございました。",
+            "songs": [
+                {
+                    "name": "独りんぼエンヴィー"
+                },
+                {
+                    "name": "サリシノハラ"
+                },
+                {
+                    "name": "文学少年の憂鬱"
+                },
+                {
+                    "name": "マッシュルームマザー"
+                },
+                {
+                    "name": "アイロニ"
+                },
+                {
+                    "name": "テロメアの産声"
+                },
+                {
+                    "name": "非実在少年は眠らない"
+                },
+                {
+                    "name": "ぼくらのレットイットビー"
+                }
+            ]
+        },
+        {
+            "name": "メリー",
+            "artist": "鹿乃",
+            "publish": "2015-12-31",
+            "cover": "cover12.jpg",
+            "brief": "会場価格 1,000円 2015年12月31日 C89 3日目 サークルスペース 東A82-b 『ばんび~の』にて頒布",
+            "songs": [
+                {
+                    "name": "プラトニック・ラヴ"
+                },
+                {
+                    "name": "バレリーコ"
+                },
+                {
+                    "name": "スキスキ絶頂症"
+                },
+                {
+                    "name": "ミルククラウン・オン・ソーネチカ"
+                },
+                {
+                    "name": "キミのマボロシ"
+                },
+                {
+                    "name": "心做し"
+                },
+                {
+                    "name": "メリュー"
+                }
+            ]
+        }
+    ]
+}
